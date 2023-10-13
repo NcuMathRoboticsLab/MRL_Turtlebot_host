@@ -14,7 +14,9 @@ catkin_make
 ## How to use?
 
 1. at hosts: `roscore` (在本機端下 `roscore`)
-2. at robot: `roslaunch turtlebot3_bringup turtlebot3_robot.launch` (在機器人端下 `roslaunch turtlebot3_bringup turtlebot3_robot.launch`)
-3. at hosts: `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py` (在本機端下 `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py`)
+2. at robot: `roslaunch turtlebot3_bringup turtlebot3_robot.launch`  
+  (在機器人端下 `roslaunch turtlebot3_bringup turtlebot3_robot.launch`)
+3. at hosts: `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py`  
+  (在本機端下 `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py`)
 
 祝大家作業順利
