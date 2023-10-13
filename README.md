@@ -19,4 +19,8 @@ catkin_make
 3. at hosts: `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py`  
   (在本機端下 `rosrun turtlebot3_sample sample` or `rosrun turtlebot3_py_sample sample.py`)
 
+## Demo
+
+Demo Video: https://www.youtube.com/watch?v=sj0ARlou-7A
+
 祝大家作業順利
